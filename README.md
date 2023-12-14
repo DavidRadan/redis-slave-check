@@ -2,7 +2,7 @@
 
 ### Description
 ```
-This plugin was written to get it a slave redis is really connected properly to master server.
+This plugin was written to see if all slave redis servers are really connected properly to master server.
 Both python 2 and 3 now supported !!!
 Tested on Rocky Linux 9.2
 ```
