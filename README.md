@@ -1,4 +1,4 @@
-# Redis Slave Connectivity Check
+# Redis ICINGA Slave Connectivity Check
 
 ### Description
 ```
